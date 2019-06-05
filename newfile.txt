@@ -1,3 +1,4 @@
-git add����Ҫ�ύ�������޸ķŵ��ݴ�����Stage��
-git commit��һ���԰��ݴ����������޸��ύ�����ؿ��֧
-git push�������ؿ��е�������Ϣ���͸�Զ�̿⡣
+git add：把要提交的所有修改放到暂存区（Stage）
+git commit：一次性把暂存区的所有修改提交到本地库分支
+git push：将本地库中的最新信息发送给远程库。
+git pull：从本地分支关联的远端分支获取最新代码，并与本地代码资源整合
